@@ -1,4 +1,4 @@
-const API_KEY = 'efe85b88a773abd3e8dd0247f3e5c6f2';
+const API_KEY = 'bbff67c42dee352abe35627d2bbdf35c';
 
 // fetch(`https://api.themoviedb.org/3/movie/${movieId}?api_key=${API_KEY}&language=en-US`);
 // fetch(`https://api.themoviedb.org/3/movie/${movieId}/credits?api_key=${API_KEY}`);
